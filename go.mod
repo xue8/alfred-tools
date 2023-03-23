@@ -1,4 +1,4 @@
-module alfred-tool
+module github.com/xue8/alfred-tools
 
 go 1.20
 

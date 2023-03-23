@@ -2,8 +2,6 @@ package main
 
 // Package is called aw
 import (
-	"alfred-tool/pkg/base64"
-	"alfred-tool/pkg/url"
 	"flag"
 	"fmt"
 	"log"
@@ -11,6 +9,8 @@ import (
 	"time"
 
 	"github.com/deanishe/awgo"
+	"github.com/xue8/alfred-tools/pkg/base64"
+	"github.com/xue8/alfred-tools/pkg/url"
 )
 
 // Workflow is the main API
